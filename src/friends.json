@@ -1,0 +1,66 @@
+[
+	
+  {
+    "id": 1,
+    "image": "https://media.pitchfork.com/photos/59e681771d01bc0ae1bbfcd2/1:1/w_160/weezer.jpg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "https://media.pitchfork.com/photos/5929c134eb335119a49ed510/1:1/w_160/84a9a51f.jpg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "https://media.pitchfork.com/photos/5929b3e213d197565213a9fc/1:1/w_160/e95ebca3.jpg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "https://media.pitchfork.com/photos/5929aa2bb1335d7bf1699607/1:1/w_160/8fe5df7c.jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "https://media.pitchfork.com/photos/5929ac575e6ef959693218e9/1:1/w_160/a34d6df0.jpg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "https://media.pitchfork.com/photos/5929ab915e6ef9596932178b/1:1/w_160/77738535.jpg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "https://media.pitchfork.com/photos/5929a6fe5e6ef95969320e86/1:1/w_160/91843387.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "https://media.pitchfork.com/photos/5929b6639d034d5c69bf51c2/1:1/w_160/0503e573.jpg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "https://media.pitchfork.com/photos/5929a1ecea9e61561daa48fe/1:1/w_160/3bbd7736.jpg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "https://media.pitchfork.com/photos/5929a9f113d197565213994c/1:1/w_160/b6c1a274.jpg",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "https://media.pitchfork.com/photos/5929a9ee13d1975652139948/1:1/w_160/db51e105.gif",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "https://t2.genius.com/unsafe/600x0/https%3A%2F%2Fimages.genius.com%2F09f92fd7eab77c28dbf8ffbab55c34f4.1000x1000x1.jpg",
+    "clicked": false
+  }
+]
+
+
+
